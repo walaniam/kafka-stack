@@ -1,5 +1,8 @@
 # kafka-stack
 # How to run
+```bash
+docker-compose up -d
+```
 ## Test
 ### Kafka REST
 ```bash
